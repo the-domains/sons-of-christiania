@@ -1,0 +1,28 @@
+name: Sons of Christiania
+favicon: null
+layout_spectrum: 0.21399045176804066
+typography_spectrum: 0.27258637896738946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9689739914610982
+  lightness: 0.9482837307732552
+  saturation: 0.05730349267832935
+  rhythmicContrast: 0.2479778015986085
+purpose: []
